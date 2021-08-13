@@ -1,3 +1,4 @@
-# Criação de um website para empresa 
+# Criação de um website para uma empresa ficticia. 
 
-##  Utilizei nesse projeto CSS, HTML5, JS e Bootstrap.
+##  Utilizarei nesse projeto CSS, HTML5, JS e Bootstrap.
+### Projeto em andamento.
